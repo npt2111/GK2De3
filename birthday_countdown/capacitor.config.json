@@ -1,0 +1,12 @@
+{
+  "appId": "com.example.birthday",
+  "appName": "Birthday Countdown",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_launcher",
+      "iconColor": "#488AFF"
+    }
+  }
+}
